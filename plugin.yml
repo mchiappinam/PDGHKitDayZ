@@ -1,0 +1,9 @@
+name: PDGHKit
+main: me.mchiappinam.pdghkit.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.net/
+commands:
+   kit:
+      description: Info.
+      usage: /<command>
